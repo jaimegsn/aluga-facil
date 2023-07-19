@@ -1,0 +1,46 @@
+
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    
+    background: #1F50FF;
+}
+
+.Logo{
+    position: absolute;
+    width: 764px;
+    height: 225.43px;
+    left: 114px;
+    top: 448.63px;
+}
+
+.Formulario {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    position: absolute;
+    width: 444.72px;
+    height: 587.91px;
+    left: 962px;
+    top: 234px;
+
+    background: #FFFFFF;
+    border-radius: 34.4208px;
+    }
+
+    .Login {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0px;
+        gap: 20px;
+        left: 1016px;
+        top: 306px;
+    }
+
+    
+
